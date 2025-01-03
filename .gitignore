@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Backend
+backend/.env
+backend/node_modules/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
